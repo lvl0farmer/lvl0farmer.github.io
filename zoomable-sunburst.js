@@ -122,7 +122,7 @@ This variant of a [sunburst diagram](/@d3/sunburst) shows only two layers of the
       name: "data",
       inputs: ["d3"],
       value: (function(d3){return(
-d3.json("https://gist.githubusercontent.com/lvl0farmer/be3dfe71683efd217228b1cc4671e604/raw/081010e0c0fe22dc3142db94ca6f9f6f6d6fda73/info.json")
+d3.json("https://gist.githubusercontent.com/lvl0farmer/b8c868a094c72ea051531bdeaec7814f/raw/3d77201e4d43b8f3082c9cfef59d0375f4432dde/infoRevise.json")
 )})
     },
     {

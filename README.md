@@ -1,1 +1,2 @@
-This is acting as portfolio, resume, and personal achievement references sheet. 
+Temporary Hosting for class 3300 CSCI class project
+

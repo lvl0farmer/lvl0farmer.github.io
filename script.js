@@ -71,7 +71,7 @@ function mouseMoveArc (d) {
 }
 
 var root_ = null;
-d3.json("flare-labeled.json", function(error, root) {
+d3.json("https://gist.githubusercontent.com/lvl0farmer/be3dfe71683efd217228b1cc4671e604/raw/fda78dae39c69d053dbf5340494e6c4c59c2b52f/info.json", function(error, root) {
   if (error) return console.warn(error);
   // Compute the initial layout on the entire tree to sum sizes.
   // Also compute the full name and fill color for each node,
